@@ -11,7 +11,7 @@ import tensorflow as tf
 import numpy as np
 import time
 
-path='D:\EC601\mini_project2'
+path='pathname'
 
 # Set picture size
 w=100
