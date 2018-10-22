@@ -11,7 +11,7 @@ import numpy as np
 import os
 import glob
 from skimage import io,transform
-path='D:\EC601\mini_project2'
+path='pathname'
 
 # Set picture size
 w=100
